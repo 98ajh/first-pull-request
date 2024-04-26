@@ -1,3 +1,5 @@
 name = input('What is your name?: ')
 age = input('What is your age?: ')
-print(f'This is {name}, he is {age} years old. This is the first pull request!')
+name1 = input('What is your name?: ')
+age1 = input('What is your age?: ')
+print(f'This is {name}, they are {age} years old. This is {name1}, they are {age1} years old.  This is the first pull request!')
